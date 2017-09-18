@@ -7,7 +7,7 @@ curl http://tv.broadlink.com.np/proc_epg.php
 
 
 
-###########################333
+###########################
 #Crontab
 
 0 0 * * * root /root/epg/.wg++/arun.sh
